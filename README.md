@@ -6,6 +6,14 @@
   <br>
 </p>
 
+### 👋 Hi there
+I am Spiros Liaskonis, an Electrical and Computer Engineering student at [University of Thessaly](https://www.uth.gr/en).
+
+- ⚙️ I use daily: `.c`, `.cu`, `.py`,
+- 🌍 I'm mostly interested in **Hardware Accelerators, High-Performance Computing, Embedded Systems, and Deep Learning**.
+- 🤝 I'm looking to collaborate on open source projects.
+- ⚡️ In my free time, I like to [🏃, 🏊‍♂️ , 🚴‍♂️](https://www.strava.com/athletes/142416157), 🩰.
+- 👀 Visit my [portfolio website](https://sliaskonis.github.io/) for more information and to get in touch.
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
